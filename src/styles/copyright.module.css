@@ -1,0 +1,29 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 24px;
+}
+
+.image {
+  margin-top: 24px;
+}
+
+.wrapper {
+  border: #e5e7eb 1px solid;
+  border-radius: 0.5rem;
+  margin-top: 24px;
+  padding: 24px;
+  background-color: rgba(240, 255, 255, 0.467);
+  color: rgba(0, 0, 0, 0.753);
+  width: 350px;
+}
+
+.item {
+  display: flex;
+}
+
+.name {
+  font-weight: bold;
+}

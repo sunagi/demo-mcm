@@ -1,0 +1,47 @@
+.buttons {
+  margin-top: 12px;
+}
+
+.btn {
+  cursor: pointer;
+  user-select: none;
+  margin: 0 2px;
+  padding: 16px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  line-height: 1em;
+  background-color: #3396ff;
+  color: rgb(57, 57, 57);
+  border-radius: 0.5rem;
+}
+
+.uploadBtn {
+  margin: 12px 22px;
+}
+
+.image {
+  height: 160px;
+  width: 175px;
+  object-fit: contain;
+}
+
+.noImage {
+  height: 160px;
+  width: 175px;
+  border: rgba(229, 231, 235, 0.351) 1px solid;
+  border-radius: 0.5rem;
+  padding: 65px 52px;
+}
+
+.removeBtn {
+  cursor: pointer;
+  user-select: none;
+  margin: 0 2px;
+  padding: 16px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  line-height: 1em;
+  background-color: #fc5bb6;
+  color: rgb(57, 57, 57);
+  border-radius: 0.5rem;
+}

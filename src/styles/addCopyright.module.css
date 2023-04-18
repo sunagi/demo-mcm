@@ -1,0 +1,40 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 24px;
+}
+
+.form {
+  margin-top: 24px;
+  display: flex;
+}
+
+.inputs {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-left: 36px;
+}
+
+.inputName {
+  padding: 6px 0;
+}
+
+.license {
+  /* margin: 0 0 0 auto; */
+}
+
+.buttonWrapper {
+  display: flex;
+  margin-top: 48px;
+}
+
+.button {
+  margin: 0 0 auto auto;
+}
+
+.uploader {
+  padding-top: 26px;
+}
